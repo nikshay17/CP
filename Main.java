@@ -8,11 +8,11 @@
                 int n=sc.nextInt();
                 int [] arr=new int[n];
                 for(int j=0;j<n;j++){
-                    int a=sc.nextInt();
+                    int a=sc.nextInt();fv d
                     arr[j]=a;
                 }
                Arrays.sort(arr);
-                    System.out.println(arr[arr.length/2]);
+                    System.out.println(arr[arr.length/2]+1);
 
             }
 
